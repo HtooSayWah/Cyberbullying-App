@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cyberbullying Detection App</string>
+    <string name="facebook_app_id">766097110393958</string>
+    <string name="fb_login_protocol_scheme">fb766097110393958</string>
+
+
+</resources>

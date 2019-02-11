@@ -1,0 +1,5 @@
+<root>
+    <item name='com.facebook.login.LoginResult'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
